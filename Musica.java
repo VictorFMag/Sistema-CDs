@@ -28,7 +28,5 @@ public class Musica {
         this.duracao = duracao;
     }
     
-    public void cadastrarMusica(){}
-    
-    
+    public void cadastrarMusica(){}  
 }
